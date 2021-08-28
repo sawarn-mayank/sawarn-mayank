@@ -20,8 +20,6 @@
 <p align="left">
 <a href="https://twitter.com/sawarn_mayank" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sawarn_mayank" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mayank sawarn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mayank sawarn" height="30" width="40" /></a>
-<a href="https://fb.com/mayank.sawarn.39" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mayank.sawarn.39" height="30" width="40" /></a>
-<a href="https://instagram.com/sawarn_mayank" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sawarn_mayank" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mayank_sawarn88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mayank_sawarn88" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/mayank" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="mayank" height="30" width="40" /></a>
 </p>
